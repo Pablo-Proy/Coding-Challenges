@@ -18,9 +18,3 @@ def array_leaders(array):
     leaders.reverse()
 
     return leaders
-
-# x=[16, 17, 4, 3, 5, 2]
-# print(array_leaders(x))
-
-
-

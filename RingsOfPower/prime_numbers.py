@@ -23,5 +23,4 @@ def prime_numbers_calculator(n):
 
             prime_numbers.append(i)
     
-    
     return prime_numbers    

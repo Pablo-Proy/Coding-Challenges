@@ -42,7 +42,7 @@ def rings_of_power(total_rings):
                 aux=random.randint(0,len(fair_distribution)-1)
 
                 print(f"One of {cont} fair distributions of the {total_rings} rings of power is:")
-                print(f"\tElfs {fair_distribution[aux][0]} rings.")
+                print(f"\tElves {fair_distribution[aux][0]} rings.")
                 print(f"\tDwarfs {fair_distribution[aux][1]} rings.")
                 print(f"\tMen {fair_distribution[aux][2]} rings.")
                 print(f"\tSauron {fair_distribution[aux][3]} ring.")
